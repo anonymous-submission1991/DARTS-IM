@@ -4,8 +4,8 @@ from copy import deepcopy
 import torch
 import torch.nn as nn
 from pathlib import Path
-sys.path.append(str('/home/mzhang3/Data/2022ICML/NAS_Bench201/lib'))
-sys.path.append(str('/home/mzhang3/Data/2022ICML/NAS_Bench201/configs'))
+sys.path.append(str('/DARTS-IM/lib'))######ADD PATH OF DARTS-IM/lib
+sys.path.append(str('/DARTS-IM/configs'))######ADD PATH OF /DARTS-IM/configs
 from config_utils import load_config, dict2config, configure2str
 from datasets     import get_datasets, SearchDataset
 from procedures   import prepare_seed, prepare_logger, save_checkpoint, copy_checkpoint, get_optim_scheduler
