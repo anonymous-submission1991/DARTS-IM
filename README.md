@@ -26,3 +26,6 @@ The results can be found in NAS_Bench201/exps/algos/ZZZZ_INTER_RESULT.zip
 Before reproducing our results, place the trained supernet in an approriate path.
 
 
+## Trained model in DARTS space
+
+The trained model in DARTS space can be found in CIFAR10_DARTS_IM and IMAGENET_DARTS_IM.
