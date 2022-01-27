@@ -18,7 +18,11 @@ Following NAS-Bench-201 install requirements, download NAS-Bench-201-v1_1-096897
 
 The results can be reproduced in NAS_Bench201/exps/algos/run_batches_sherman.sh
 
+The results can be found in NAS_Bench201/exps/algos/ZZZZ_INTER_RESULT.zip
 
-## Search on DARTS space
+
+## Trained supernt
+
+Before reproducing our results, place the trained supernet in an approriate path.
 
 
