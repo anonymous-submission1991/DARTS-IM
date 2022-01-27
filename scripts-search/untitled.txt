@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 bash ./scripts-search/algos/DARTS-V1.sh --data_path data/mzhang3/ENNAS_master/data/cifar-10-batches-py --dataset cifar10 --arch_nas_dataset /data/mzhang3/NSAS_Bench201/NAS-Bench-102-v1_0-e61699.pth --seed 0 
