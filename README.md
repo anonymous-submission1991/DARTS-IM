@@ -20,6 +20,10 @@ The results can be reproduced in NAS_Bench201/exps/algos/run_batches_sherman.sh
 
 The results can be found in NAS_Bench201/exps/algos/ZZZZ_INTER_RESULT.zip
 
+For example, the results in the fold "run_example_bathces_neumann_240" means that we run the algorithm with Neurmann series approximation with random seed 2 and number of batches 40.
+
+The results in the fold "run_track_example_bathces_sherman_130" means that we run the algorithm with Sherman-Mprrison approximation with random seed 1 and number of batches 30, with tracking every epoch.
+
 
 ## Trained supernt
 
